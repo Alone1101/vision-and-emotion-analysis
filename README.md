@@ -16,14 +16,6 @@ This repository contains a computer vision pipeline focused on two primary tasks
 * **Emotion Detection:** Integrates DeepFace and TensorFlow to analyze facial expressions and log emotional states over time.
 * **Data Visualization:** Parses output logs to generate clean, readable visualizations of emotion duration.
 
-## Visual Outputs
-
-**Highway Tracking Output:**
-![Object Tracking](Task_4_Working_Screen.jpg)
-
-**Emotion Analysis Breakdown:**
-![Emotion Duration](emotion_duration_plot.png)
-
 ## Repository Structure
 * `COMP3204_CW2.ipynb`: The main Jupyter Notebook containing the core logic, image processing, and model integration.
 * `emotion_log.csv`: Raw data output logging detected emotional states over time.
